@@ -1,0 +1,15 @@
+C:\Users\Faculdade\Documents\entrega lp\bin\Debug\net6.0\entrega lp.exe
+C:\Users\Faculdade\Documents\entrega lp\bin\Debug\net6.0\entrega lp.deps.json
+C:\Users\Faculdade\Documents\entrega lp\bin\Debug\net6.0\entrega lp.runtimeconfig.json
+C:\Users\Faculdade\Documents\entrega lp\bin\Debug\net6.0\entrega lp.dll
+C:\Users\Faculdade\Documents\entrega lp\bin\Debug\net6.0\entrega lp.pdb
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.csproj.AssemblyReference.cache
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.AssemblyInfoInputs.cache
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.AssemblyInfo.cs
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.csproj.CoreCompileInputs.cache
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.dll
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\refint\entrega lp.dll
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.pdb
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\entrega lp.genruntimeconfig.cache
+C:\Users\Faculdade\Documents\entrega lp\obj\Debug\net6.0\ref\entrega lp.dll
